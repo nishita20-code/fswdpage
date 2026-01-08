@@ -1,0 +1,43 @@
+body {
+    background-color: #eef2f3;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    background-color: #cfd8dc;
+    text-align: center;
+    padding: 15px;
+}
+
+.section {
+    background-color: white;
+    margin: 20px;
+    padding: 15px;
+    border-radius: 5px;
+}
+
+.section h3 {
+    color: #1e3a8a;
+}
+
+form input, form select {
+    width: 95%;
+    padding: 6px;
+}
+
+button {
+    background-color: #64748b;
+    color: white;
+    border: none;
+    padding: 8px 15px;
+    cursor: pointer;
+}
+
+.footer {
+    background-color: #9ca3af;
+    text-align: center;
+    padding: 10px;
+    font-size: 14px;
+}
